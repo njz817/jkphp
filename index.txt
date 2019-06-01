@@ -5,3 +5,5 @@ love ni
 test update jack
 xu wei xuwei
 chunhai chunhai
+
+git remote add origin git@github.com:njz817/jkphp
