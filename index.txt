@@ -1,9 +1,0 @@
-Git is a version control system.
-Git is free software.
-nihao jack
-love ni
-test update jack
-xu wei xuwei
-chunhai chunhai
-
-git remote add origin git@github.com:njz817/jkphp
